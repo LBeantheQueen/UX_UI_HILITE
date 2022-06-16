@@ -1,3 +1,118 @@
+ body {
+    background-color: #1D2025;
+}
+
+.logo {
+    padding: 20px
+}
+
+
+/* .nav_bar {
+    margin: 0 auto;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    background-color: #1D2025;
+    width: 100%;
+  }
+
+
+.all_navigation {
+    display: flex;
+    height: 60px;
+    align-items: center;
+} */
+
+/* .all_navigation li {
+    justify-content: center;
+  } */
+
+.jumbotron {
+    display: flex;
+    background-color: #9FA0A0;
+}
+
+.jumbotronHeading {
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 100px;
+}
+
+.all_navigation .align-right {
+    justify-content: right;
+}
+
+.btn-primary {
+    background-color: #A54BFF;
+    border: #A54BFF;
+    border-radius: 10px;
+}
+
+.btn-primary:hover {
+    background-color: #FF6DCE;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.login-button {
+    background-color: #A54BFF;
+    border: #A54BFF;
+    color: antiquewhite;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.login-button:hover {
+    background-color: #FF6DCE;
+    border: #FF6DCE;
+}
+.login {
+    justify-content: right;
+}
+
+.nav-ul {
+display: flex;
+justify-content: center;
+color: #9FA0A0;
+align-items: center;
+padding: 20px;
+}
+
+.nav-link {
+    padding: 20px;
+    width: 100px;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.uploadImg {
+    background-color: #A54BFF;
+    padding: 50px;
+    height: 1000px
+}
+
+.tutorial-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.uploadHeading {
+    padding: 50px;
+    background-color: #FF6DCE;
+    height: 1000px;
+
+
 h1 {
-    color: fuchsia;
+    color: #E2F6FF;
+}
+
+p {
+    color: #E2F6FF;
 }
