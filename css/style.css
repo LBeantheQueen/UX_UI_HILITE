@@ -1,3 +1,156 @@
-h1 {
-    color: fuchsia;
+ body {
+    background-color: #1D2025;
 }
+
+.logo {
+    padding: 20px
+}
+
+
+/* .nav_bar {
+    margin: 0 auto;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    background-color: #1D2025;
+    width: 100%;
+  }
+
+
+.all_navigation {
+    display: flex;
+    height: 60px;
+    align-items: center;
+} */
+
+/* .all_navigation li {
+    justify-content: center;
+  } */
+
+.jumbotron {
+    display: flex;
+    background-color: #1D2025;
+    color: #E2F6FF;
+}
+
+.jumbotronHeading {
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 100px;
+}
+
+.center {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.all_navigation .align-right {
+    justify-content: right;
+}
+
+.btn-primary {
+    background-color: #A54BFF;
+    border: #A54BFF;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.btn-primary:hover {
+    background-color: #FF6DCE;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.login-button {
+    background-color: #A54BFF;
+    border: #A54BFF;
+    color: antiquewhite;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.login-button:hover {
+    background-color: #FF6DCE;
+    border: #FF6DCE;
+}
+.login {
+    justify-content: right;
+}
+
+/* .nav-ul {
+display: flex;
+justify-content: center;
+color: #9FA0A0;
+align-items: center;
+padding: 20px;
+}
+
+.nav-link {
+    padding: 20px;
+    width: 100px;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+} */
+
+.uploadImg {
+    padding: 50px;
+}
+
+.tutorial-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 50px;
+}
+
+.uploadHeading {
+    padding: 50px;
+    height: 500px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #F4F4F4;
+}
+
+p {
+    font-family: font-family: 'Open Sans', sans-serif;;
+    color: #F4F4F4;
+    font-size: 20px
+}
+
+.navigation {
+border-bottom: solid 0.1px  rgb(165, 75, 255);
+width: 100%
+}
+
+.graphic {
+    text-align: center;
+}
+
+.start-sharing {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/* .heroImg {
+    border: solid 3px #A54BFF;
+} */
+
+.footer {
+    border-top: solid 0.1px  rgb(165, 75, 255);
+    width: 100%
+}
+
+.purple {
+    color: #A54BFF;
+}
+
