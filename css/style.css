@@ -28,13 +28,19 @@
 
 .jumbotron {
     display: flex;
-    background-color: #9FA0A0;
+    background-color: #1D2025;
+    color: #E2F6FF;
 }
 
 .jumbotronHeading {
     width: 50%;
     padding-left: 50px;
     padding-right: 100px;
+}
+
+.center {
+    text-align: center;
+    padding-top: 20px;
 }
 
 .all_navigation .align-right {
@@ -45,6 +51,7 @@
     background-color: #A54BFF;
     border: #A54BFF;
     border-radius: 10px;
+    text-align: center;
 }
 
 .btn-primary:hover {
@@ -54,6 +61,7 @@
 .container {
     display: flex;
     align-items: center;
+    width: 100%;
 }
 
 .login-button {
@@ -91,9 +99,7 @@ padding: 20px;
 }
 
 .uploadImg {
-    background-color: #A54BFF;
     padding: 50px;
-    height: 1000px
 }
 
 .tutorial-1 {
@@ -105,14 +111,26 @@ padding: 20px;
 
 .uploadHeading {
     padding: 50px;
-    background-color: #FF6DCE;
-    height: 1000px;
-
+    height: 500px;
+}
 
 h1 {
-    color: #E2F6FF;
+    color: #F4F4F4;
 }
 
 p {
-    color: #E2F6FF;
+    color: #F4F4F4;
+}
+
+.navigation {
+border-bottom: solid 0.1px  rgb(165, 75, 255);
+width: 100%
+}
+
+.graphic {
+    text-align: center;
+}
+
+.start-sharing {
+    text-align: center;
 }
