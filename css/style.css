@@ -12,12 +12,14 @@
     background-color: #1D2025;
     color: #E2F6FF;
     align-items: center;
+    width: 100%;
+    padding-top: 25vh;
 }
 
 .jumbotronHeading {
     width: 50%;
-    padding-left: 50px;
     padding-right: 100px;
+    margin-left: 50px;
 }
 
 .center {
@@ -71,13 +73,15 @@
     justify-content: center;
     align-items: center;
     width: 100%;
-    padding: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25vh;
 }
 
 .uploadHeading {
     padding: 50px;
-    height: 500px;
-    width: 500px
+    height: auto;
+    width: 500px;
 }
 
 h1 {
@@ -120,3 +124,6 @@ p {
     color: #A54BFF;
 }
 
+.padding-bottom {
+    padding-bottom: 25vh;
+}
