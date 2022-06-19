@@ -68,7 +68,7 @@
 .login-button {
     background-color: #A54BFF;
     border: #A54BFF;
-    color: antiquewhite;
+    color: #F4F4F4;
     width: 150px;
     height: 40px;
     border-radius: 10px;
@@ -114,6 +114,7 @@ padding: 20px;
 .uploadHeading {
     padding: 50px;
     height: 500px;
+    width: 500px
 }
 
 h1 {
@@ -138,9 +139,13 @@ width: 100%
 }
 
 .start-sharing {
+    background-image: url("../images/screen-collage-edit.png");
+    background-size: 1500px;
+    height: auto;
     text-align: center;
     padding-top: 100px;
     padding-bottom: 100px;
+    align-items: center;
 }
 
 /* .heroImg {
