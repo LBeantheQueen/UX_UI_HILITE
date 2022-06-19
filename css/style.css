@@ -30,6 +30,7 @@
     display: flex;
     background-color: #1D2025;
     color: #E2F6FF;
+    align-items: center;
 }
 
 .jumbotronHeading {
